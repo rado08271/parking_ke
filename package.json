@@ -2,13 +2,23 @@
   "name": "ke_zone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rado08271.github.io/parking_ke",
   "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "gh-pages": "^2.0.1",
+    "google-maps-react": "^2.0.2",
+    "js-clipper": "^1.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-google-maps": "^9.4.5",
+    "react-scripts": "3.0.1",
+    "recompose": "^0.30.0",
+    "robust-point-in-polygon": "^1.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
