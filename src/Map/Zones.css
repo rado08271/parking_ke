@@ -1,0 +1,21 @@
+#center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Oswald;
+    text-transform: uppercase;
+    color: #666;
+    background: rgba(94, 197, 57, 0.6);
+    border-radius: 8px;
+    padding: 16px;
+    transform: translate(-50%, -50%);
+}
+
+#coords {
+    width: 100%;
+    text-align: center;
+    color: #999;
+    font-family: B612 Mono;
+}
