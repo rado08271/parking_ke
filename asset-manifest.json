@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/parking_ke.git/static/css/main.98fe9413.chunk.css",
-    "main.js": "/parking_ke.git/static/js/main.9f6352eb.chunk.js",
-    "main.js.map": "/parking_ke.git/static/js/main.9f6352eb.chunk.js.map",
-    "runtime~main.js": "/parking_ke.git/static/js/runtime~main.a5d87672.js",
-    "runtime~main.js.map": "/parking_ke.git/static/js/runtime~main.a5d87672.js.map",
-    "static/js/2.b0a4d7d7.chunk.js": "/parking_ke.git/static/js/2.b0a4d7d7.chunk.js",
-    "static/js/2.b0a4d7d7.chunk.js.map": "/parking_ke.git/static/js/2.b0a4d7d7.chunk.js.map",
-    "index.html": "/parking_ke.git/index.html",
-    "precache-manifest.eba5d985bff4781a19f44ce3cfab939f.js": "/parking_ke.git/precache-manifest.eba5d985bff4781a19f44ce3cfab939f.js",
-    "service-worker.js": "/parking_ke.git/service-worker.js",
-    "static/css/main.98fe9413.chunk.css.map": "/parking_ke.git/static/css/main.98fe9413.chunk.css.map"
+    "main.css": "/parking_ke/static/css/main.0cf62cc7.chunk.css",
+    "main.js": "/parking_ke/static/js/main.94732321.chunk.js",
+    "main.js.map": "/parking_ke/static/js/main.94732321.chunk.js.map",
+    "runtime~main.js": "/parking_ke/static/js/runtime~main.34f09388.js",
+    "runtime~main.js.map": "/parking_ke/static/js/runtime~main.34f09388.js.map",
+    "static/js/2.251a52b7.chunk.js": "/parking_ke/static/js/2.251a52b7.chunk.js",
+    "static/js/2.251a52b7.chunk.js.map": "/parking_ke/static/js/2.251a52b7.chunk.js.map",
+    "index.html": "/parking_ke/index.html",
+    "precache-manifest.d4bbc5c5e9e27426899a7cc1d6265a13.js": "/parking_ke/precache-manifest.d4bbc5c5e9e27426899a7cc1d6265a13.js",
+    "service-worker.js": "/parking_ke/service-worker.js",
+    "static/css/main.0cf62cc7.chunk.css.map": "/parking_ke/static/css/main.0cf62cc7.chunk.css.map"
   }
 }
